@@ -1,0 +1,143 @@
+{
+  "GTS728976543210": {
+    "service": "Express Delivery",
+    "estDelivery": "2025-10-29",
+    "currentStatus": "Picked up",
+    "weight": "0.85kg",
+    "dimensions": "40×30×20 cm",
+    "insurance": "MYR 385.00",
+    "paymentMethod": "QR DuitNow",
+    "sender": {
+      "name": "AGENT SERVICE BOOT-Shiraz Apple Store",
+      "address": "Seksyen 16, 40200 Shah Alam, Selangor, Malaysia",
+      "phone": "01119873046",
+      "email": ""
+    },
+    "receiver": {
+      "name": "Nur Zahirah Aniesa",
+      "address": "3705, Jalam Jati 6 , Bandar Putra, Johor, Malaysia.",
+      "phone": "0138570767",
+      "email": ""
+    },
+    "items": [
+      {
+        "qty": 1,
+        "name": "idevice iphone15 promax",
+        "weight": "0.41 kg",
+        "value": "MYR "
+      }
+    ],
+    "history": [
+      {
+        "status": "Package Document Pre-checked",
+        "timestamp": "2025-10-26T09:52",
+        "location": "Sender Office, Shah Alam, Selangor",
+        "details": "Waybill, consignment note, and delivery declaration created and verified by Logistics agent. Shipment officially registered in system."
+      },
+      {
+        "status": "Picked Up",
+        "timestamp": "2025-10-27T13:21",
+        "location": "MyGTS Service Center, Shah Alam",
+        "details": "Parcel collected and scanned by courier; labeled and sealed for northbound transit."
+      }
+    ]
+  },
+  "GTS728926013375": {
+    "sender": {
+      "name": "AGENT SERVICE BOOT-Shiraz Apple Store",
+      "address": "Jalan Baru, 81200 Johor Bahru, Johor Darul Ta'zim",
+      "phone": "01119873046",
+      "email": ""
+    },
+    "receiver": {
+      "name": "NURUL IZZATIE IZZATUL",
+      "address": "B-12-06, VISTA BANGI, JALAN REKO, 43000 KAJANG, SELANGOR ",
+      "phone": "0178340428",
+      "email": ""
+    },
+    "items": [
+      {
+        "name": "idevice iPad Air 13 ",
+        "qty": 1,
+        "weight": "0.41 kg",
+        "value": "MYR"
+      }
+    ],
+    "history": [
+      {
+        "status": "Package Document Pre-checked",
+        "timestamp": "2025-10-25T13:36",
+        "location": "Sender Office, Johor Darul Ta'zim",
+        "details": "Waybill, consignment note, and delivery declaration created and verified by Logistics agent. Shipment officially registered in system."
+      },
+      {
+        "status": "Picked Up",
+        "timestamp": "2025-10-26T17:38",
+        "location": "MyGTS Service Center, Johor",
+        "details": "Parcel collected and scanned by courier; labeled and sealed for northbound transit."
+      },
+      {
+        "status": "Arrived at Origin Sorting Hub",
+        "timestamp": "2025-10-27T10:40",
+        "location": "Jalan Ekoperniagaan 1/28 (Bahru, Johor)",
+        "details": "Sorted, verified, and loaded for interstate transport; manifest approved for dispatch."
+      }
+    ],
+    "service": "Express Delivery",
+    "estDelivery": "2025-10-28",
+    "currentStatus": "In Transit",
+    "weight": "0.75 kg",
+    "dimensions": "40×30×20 cm",
+    "insurance": "MYR 385",
+    "paymentMethod": "QR DuitNow"
+  },
+  "GTS728944019972": {
+    "sender": {
+      "name": "AGENT SERVICE BOOT-Shiraz Apple Store",
+      "address": "Seksyen 16, 40200 Shah Alam, Selangor, Malaysia",
+      "phone": "01119873046",
+      "email": ""
+    },
+    "receiver": {
+      "name": "Anis Syuhada",
+      "address": "No. 11, Jalan Padi Mahsuri 1/1, Bandar Baru Uda, Johor Bahru, 81200, Johor",
+      "phone": "0149326448",
+      "email": ""
+    },
+    "items": [
+      {
+        "name": "idevice iphone14 promax",
+        "qty": 1,
+        "weight": "0.41",
+        "value": "MYR "
+      }
+    ],
+    "history": [
+      {
+        "status": "Package Document Pre-checked",
+        "timestamp": "2025-10-25T13:36",
+        "location": "Seksyen 16, 40200 Shah Alam, Selangor",
+        "details": "Waybill, consignment note, and delivery declaration created and verified by Logistics agent. Shipment officially registered in system."
+      },
+      {
+        "status": "Picked Up",
+        "timestamp": "2025-10-26T17:38",
+        "location": "MyGTS Service Center, Selangor",
+        "details": "Parcel collected and scanned by courier; labeled and sealed for northbound transit."
+      },
+      {
+        "status": "Arrived at Origin Sorting Hub",
+        "timestamp": "2025-10-27T10:40",
+        "location": "Jalan Ekoperniagaan (Shah Alam, Selangor)",
+        "details": "Sorted, verified, and loaded for interstate transport; manifest approved for dispatch."
+      }
+    ],
+    "service": "Express Delivery",
+    "estDelivery": "2025-10-28",
+    "currentStatus": "In Transit",
+    "weight": "0.75 kg",
+    "dimensions": "40×30×20 cm",
+    "insurance": "MYR 385",
+    "paymentMethod": "QR DuitNow"
+  }
+}
